@@ -1,0 +1,6 @@
+source http://tfsp-server1:8090/nuget/
+source http://tfsp-server1:8091/nuget/
+source https://api.nuget.org/v3/index.json
+framework >= net452
+
+nuget Newtonsoft.Json 7.0.1
